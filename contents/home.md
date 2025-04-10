@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Lilyucan](https://github.com/Lilyucan])
 
-hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 #### Email
-sli[at]cumt.edu.cn
+wulinting1998@163.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Accounting Finance and Management, University of Bristol, 2020—2021.\
+B.E., Data Accounting, Anhui University of Finance and Economics, 2016—2020.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Auditing, Risk Control and Compliance work
 
