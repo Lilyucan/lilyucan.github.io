@@ -1,6 +1,6 @@
 
 
-[![Lilyucan][https://lilyucan.github.io/]
+[Lilyucan][https://lilyucan.github.io/]
 
 
 #### Email
