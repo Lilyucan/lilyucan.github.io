@@ -109,5 +109,6 @@ section .main-body{
     }
 }
 
-
+#work experience { padding:4rem 0; }
+#work experience -subtitle { color:var(--h-title-color); }
 
