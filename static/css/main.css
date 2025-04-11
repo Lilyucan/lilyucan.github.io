@@ -109,14 +109,5 @@ section .main-body{
     }
 }
 
-/* Work Experience Section */
-#work experience-subtitle {
-    color: var(--h-title-color);
-    font-size: 2.3rem;
-    line-height: 4rem;
-}
 
-#work experience {
-    padding: 4rem 0;
-}
 
