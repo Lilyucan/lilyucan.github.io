@@ -13,9 +13,5 @@ B.E., Data Accounting, Anhui University of Finance and Economics, 2016—2020.
 #### Research Interests
 Auditing, Risk Control and Compliance work
 
-#### Work Experience
-Pan CPA (Hangzhou)  2021-2023 Senior Auditor
-XTransfer Inc (Shanghai) 2024-2025 Risk Control and Compliance Specialist
-
 
 [def]: https://github.com/Lilyucan]
